@@ -2,7 +2,8 @@
 
 ### Blogpost: https://farihaupoma.github.io/FM_MLfinalProject.github.io/
 
-#### Main code for generating the outputs.
-#### Final Paper.
+### Contents:
+1. Notebook for generating the outputs.
+2. Final Paper.
 
 #### links.txt contains all necessary links regarding the project.
